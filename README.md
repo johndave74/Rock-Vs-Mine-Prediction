@@ -1,6 +1,7 @@
 # Rock-Vs-Mine-Prediction
 This project aims to build a prediction system that can classify an object as either a Rock or a Mine using SONAR data. The Logistic Regression model is used for the prediction.
 
+![image](https://github.com/user-attachments/assets/f09bc67b-cae8-4987-a183-c29c148b008a)
 
 # Rock Vs Mine Prediction
 
