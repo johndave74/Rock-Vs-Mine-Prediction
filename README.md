@@ -24,7 +24,7 @@ Rock vs. Mine is a machine learning project that uses sonar to distinguish betwe
 - A submarine sends out a sound signal using sonar 
 - The submarine receives and analyzes the signal that bounces back 
 - The system uses machine learning to classify the object as a rock or a mine
-- 
+
 ### Applications
 The Rock vs. Mine project has applications in marine exploration, defense, and resource extraction. 
 
@@ -34,9 +34,9 @@ The Rock vs. Mine project has applications in marine exploration, defense, and r
 - Enhanced situational awareness: The system can help reduce human error and improve decision-making
 - 
 ### Related resources
-Rock vs. Mine Prediction on GitHub: Includes a dataset, data visualization techniques, and a train-test split to evaluate model performance 
-SONAR Rock vs Mine Prediction: A machine learning classification project that uses sonar data 
-SONAR Rock vs Mine Prediction Using Machine Learning: A project that uses logistic regression to differentiate underwater objects 
+- Rock vs. Mine Prediction on GitHub: Includes a dataset, data visualization techniques, and a train-test split to evaluate model performance 
+- SONAR Rock vs Mine Prediction: A machine learning classification project that uses sonar data 
+- SONAR Rock vs Mine Prediction Using Machine Learning: A project that uses logistic regression to differentiate underwater objects 
 
 In this project, we use SONAR data to predict whether an object is a Rock or a Mine. The dataset contains 208 samples with 60 features each. The target variable has two classes: 'R' for Rock and 'M' for Mine.
 
